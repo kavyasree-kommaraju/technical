@@ -11,7 +11,7 @@ Welcome to E-commerce project using Java!
    :numbered:
    
    file1.md
-   file2.md
+   
    
    
 
